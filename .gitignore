@@ -16,3 +16,6 @@
 # vendor/
 
 .idea
+.vscode
+*.pdf
+dev.yaml
